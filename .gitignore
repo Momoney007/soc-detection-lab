@@ -1,0 +1,20 @@
+# Credentials and secrets
+*.key
+*.pem
+*.pfx
+*.p12
+.env
+.env.*
+
+# VM artifacts
+*.vmdk
+*.vmem
+*.vmss
+*.nvram
+*.vmsn
+*.vmx
+
+# Local OS noise
+.DS_Store
+Thumbs.db
+Desktop.ini
